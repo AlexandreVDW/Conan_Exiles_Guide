@@ -1,14 +1,5 @@
 [
 {
-    "baby" : "",
-    "baby_pict" : "./",
-    "adult": [""],
-    "adult_pict": ["./"],
-    "food": ["./"],
-    "Probability": [""],
-    "map": [""]
-},
-{
     "baby" : "Aardwolf Cub",
     "baby_pict" : "./img/siptah/Aardwolf_Cub.webp",
     "adult": ["Greater Aardwolf Scavenger"],
@@ -175,8 +166,161 @@
     "baby_pict" : "./img/exiles lands/Ostrich_Chick.webp",
     "adult": ["Ostrich A", "Ostrich B", "Ostrich C"],
     "adult_pict": ["./img/exiles lands/Ostrich_A.webp","./img/exiles lands/Ostrich_B.webp","./img/exiles lands/Ostrich_C.webp"],
-    "food": ["./img/food/Handful_of_Insects.webp",],
-    "Probability": [""],
-    "map": [""]
+    "food": ["./img/food/Handful_of_Insects.webp","./img/food/Desert_Berries.webp","./img/food/Highland_Berries.webp"],
+    "Probability": ["80%","40%","40%"],
+    "map": ["exiles lands"]
 },
+{
+    "baby" : "Panther Cub",
+    "baby_pict" : "./img/exiles lands/Panther_Cub.webp",
+    "adult": ["Greater Panther"],
+    "adult_pict": ["./img/exiles lands/Greater_Panther.webp"],
+    "food": ["./img/food/Exotic_Flesh.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Pebblenose",
+    "baby_pict" : "./img/exiles lands/Pebblenose.webp",
+    "adult": ["Silver-vein Rocknose","Gold-vein Rocknose","Greater Rocknose"],
+    "adult_pict": ["./img/exiles lands/Silver-vein_Rocknose.webp", "./img/exiles lands/Gold-vein_Rocknose.webp", "./img/exiles lands/Greater_Rocknose.webp"],
+    "food": ["./img/food/Silver_Dust.webp","./img/food/Gold_Dust.webp","img/food/Ironstone.webp"],
+    "Probability": ["20%","20%","20%"],
+    "map": ["exiles lands","siptah"]
+},
+{
+    "baby" : "Rhino Calf",
+    "baby_pict" : "./img/exiles lands/Rhino_Calf.webp",
+    "adult": ["White Rhinoceros","Black Rhinoceros","Greater Rhinoceros"],
+    "adult_pict": ["./img/exiles lands/White_Rhinoceros.webp","./img/exiles lands/Black_Rhinoceros.webp","./img/exiles lands/Greater_Rhinoceros.webp"],
+    "food": ["./img/food/Desert_Berries.webp","./img/food/plant_fiber.webp","./img/food/bark.webp"],
+    "Probability": ["10%","10%","10%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Sabretooth Kitten",
+    "baby_pict" : "./img/exiles lands/Sabretooth_Kitten.webp",
+    "adult": ["Greater Sabretooth"],
+    "adult_pict": ["./img/exiles lands/Greater_Sabretooth.webp"],
+    "food": ["./img/food/Raw_Pork.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Salamander Hatchling",
+    "baby_pict" : "./img/exiles lands/Salamander_Hatchling.webp",
+    "adult": ["Greater Salamander"],
+    "adult_pict": ["./img/exiles lands/Greater_Salamander.webp"],
+    "food": ["./img/food/perfect_cut_of_meat.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Scorpion Hatchling",
+    "baby_pict" : "./img/exiles lands/Scorpion_Hatchling.webp",
+    "adult": ["Scorpion A", "Scorpion B", "Scorpion C","Scorpion Queen"],
+    "adult_pict": ["./img/exiles lands/Scorpion_A.webp","./img/exiles lands/Scorpion_B.webp","./img/exiles lands/Scorpion_C.webp","./img/exiles lands/Scorpion_Queen.webp"],
+    "food": ["./img/food/Handful_of_Insects.webp","./img/food/Abysmal_Flesh.webp","./img/food/Demon_Blood.webp","./img/food/Demon_Blood.webp"],
+    "Probability": ["97%","25%","30%","20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Shaggai Larvae",
+    "baby_pict" : "./img/siptah/Shaggai_Larvae.webp",
+    "adult": ["Shaggai Drone","Shaggai Warrior"],
+    "adult_pict": ["./img/siptah/Shaggai_Drone.webp","img/siptah/Shaggai_Warrior.webp"],
+    "food": ["./img/food/honey.webp","./img/food/Shaggai_Queen_Jelly.webp"],
+    "Probability": ["99%","25%"],
+    "map": ["siptah"]
+},
+{
+    "baby" : "Shaleback Hatchling",
+    "baby_pict" : "./img/exiles lands/Shaleback_Hatchling.webp",
+    "adult": ["Shaleback A", "Shaleback B", "Shaleback C", "Shaleback D", "Greater Shaleback"],
+    "adult_pict": ["./img/exiles lands/Shaleback_A.webp","./img/exiles lands/Shaleback_B.webp","./img/exiles lands/Shaleback_C.webp","./img/exiles lands/Shaleback_D.webp","./img/exiles lands/Greater_Shaleback.webp"],
+    "food": ["./img/food/plant_fiber.webp","./img/food/Highland_Berries.webp","./img/food/Exotic_Shellfish.webp","./img/food/Unappetizing_Shellfish.webp","./img/food/Savory_Shellfish.webp"],
+    "Probability": ["90%","10%","20%","10%","10%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Shoebill Chick",
+    "baby_pict" : "./img/exiles lands/Shoebill_Chick.webp",
+    "adult": ["Shoebill A", "Shoebill B", "Shoebill C"],
+    "adult_pict": ["./img/exiles lands/Shoebill_A.webp","./img/exiles lands/Shoebill_B.webp","./img/exiles lands/Shoebill_C.webp"],
+    "food": ["./img/food/Desert_Berries.webp","./img/food/Handful_of_Insects.webp","./img/food/Handful_of_Insects.webp"],
+    "Probability": ["80%","20%","10%"],
+    "map": ["exiles lands","siptah"]
+},
+{
+    "baby" : "Siptah Pelican Chick",
+    "baby_pict" : "./img/siptah/Siptah_Pelican_Chick.webp",
+    "adult": ["Greater Siptah Pelican"],
+    "adult_pict": ["./img/siptah/Greater_Siptah_Pelican.webp"],
+    "food": ["./img/food/puffer_mushroom.webp"],
+    "Probability": ["20%"],
+    "map": ["siptah"]
+},
+{
+    "baby" : "Spiderling",
+    "baby_pict" : "./img/exiles lands/Spiderling.webp",
+    "adult": ["Spider A", "Spider B", "Red Widow", "Black Widow","Corrupted Spider"],
+    "adult_pict": ["./img/exiles lands/Spider_A.webp","./img/exiles lands/Spider_B.webp","./img/exiles lands/Black_Widow.webp","./img/exiles lands/Red_Widow.webp","./img/exiles lands/Corrupted_Spider.webp"],
+    "food": ["./img/food/Handful_of_Insects.webp","./img/food/Putrid_Meat.webp","./img/food/Demon_Blood.webp","./img/food/Demon_Blood.webp","./img/food/Demon_Blood.webp"],
+    "Probability": ["90%","10%","74%","16%","10%"],
+    "map": ["exiles lands","siptah"]
+},
+{
+    "baby" : "Spotted Hyena Whelp",
+    "baby_pict" : "./img/exiles lands/Spotted_Hyena_Whelp.webp",
+    "adult": ["Greater Hyena"],
+    "adult_pict": ["./img/exiles lands/Greater_Hyena.webp"],
+    "food": ["./img/food/Feral_Flesh.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Striped Hyena Whelp",
+    "baby_pict" : "./img/exiles lands/Striped_Hyena_Whelp.webp",
+    "adult": ["Greater Hyena"],
+    "adult_pict": ["./img/exiles lands/Greater_Hyena.webp"],
+    "food": ["./img/food/Feral_Flesh.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Tiger Cub",
+    "baby_pict" : "./img/exiles lands/Tiger_Cub.webp",
+    "adult": ["White Tiger"],
+    "adult_pict": ["./img/exiles lands/White_Tiger.webp"],
+    "food": ["./img/food/Exotic_Flesh.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
+},
+{
+    "baby" : "Turtle Hatchling",
+    "baby_pict" : "./img/siptah/Turtle_Hatchling.webp",
+    "adult": ["Small Turtle", "Turtle", "Large Turtle"],
+    "adult_pict": ["./img/siptah/Turtle.webp","./img/siptah/Turtle.webp","./img/siptah/Turtle.webp"],
+    "food": ["./img/food/plant_fiber.webp","./img/food/Exotic_Shellfish.webp","./img/food/Exotic_Shellfish.webp"],
+    "Probability": ["80%", "30%", "20%"],
+    "map": ["siptah"]
+},
+{
+    "baby" : "Wolf Cub",
+    "baby_pict" : "./img/exiles lands/Wolf_Cub.webp",
+    "adult": ["Greater Wolf"],
+    "adult_pict": ["./img/exiles lands/Greater_Wolf.webp"],
+    "food": ["./img/food/perfect_cut_of_meat.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands", "siptah"]
+},
+{
+    "baby" : "Frostwolf Cub",
+    "baby_pict" : "./img/exiles lands/Frostwolf_Cub.webp",
+    "adult": ["Greater Wolf"],
+    "adult_pict": ["./img/exiles lands/Greater_Wolf.webp"],
+    "food": ["./img/food/Raw_Pork.webp"],
+    "Probability": ["40%"],
+    "map": ["exiles lands"]
+}
 ]

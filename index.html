@@ -3,11 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Conan Pet helper</title>
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-    
+    <h1>Conan Pet helper</h1>
+    <h2>Chosse your map:</h2>
+    <nav>  
+        <label for="all">All</label> 
+        <input type="radio" name="map" id="all" checked>
+        <label for="exiles">Exiles</label>
+        <input type="radio" name="map" id="exiles lands">
+        <label for="siptah">Siptah</label>
+        <input type="radio" name="map" id="siptah">
+    </nav>
+    <section class="card_container">
+
+    </section>
+    <!-- Modal -->
+    <div id="babyModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3 id="babyName"></h3>
+            <table id="babyDetails">
+                <!-- Details will be populated here -->
+            </table>
+        </div>
+    </div>
 </body>
 <script defer src="./script.js"></script>
 </html>
