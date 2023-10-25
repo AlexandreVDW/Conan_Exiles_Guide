@@ -98,7 +98,9 @@ fetch('./card.json')
         img.src = baby.adult_pict[i];
         img.alt = baby.adult[i];
         cell2.appendChild(img);
-        cell3.textContent = baby.food [i];
+        const food = document.createElement('img');
+        food.src = baby.food[i];
+        cell3.appendChild(food);
         cell4.textContent = `Probability: ${baby.Probability[i]}`;
       }
 
