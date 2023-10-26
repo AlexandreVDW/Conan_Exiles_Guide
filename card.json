@@ -322,5 +322,14 @@
     "food": ["./img/food/Raw_Pork.webp"],
     "Probability": ["40%"],
     "map": ["exiles lands"]
+},
+{
+    "baby" : "Cobra Hatchling",
+    "baby_pict" : "./img/exiles lands/Cobra_Hatchling.webp",
+    "adult": ["Cobra Alpha"],
+    "adult_pict": ["./img/exiles lands/Cobra_Alpha.webp"],
+    "food": ["./img/food/perfect_cut_of_meat.webp"],
+    "Probability": ["20%"],
+    "map": ["exiles lands"]
 }
 ]
