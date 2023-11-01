@@ -1,33 +1,35 @@
 @charset "UTF-8";
-body {
-  color: #A38369;
-  background-color: red;
+nav {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 2%;
 }
-body .card_container {
+
+.card_container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   gap: 5px;
 }
-body .card_container .card {
+.card_container .card {
   width: 200px;
   height: 250px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1px solid black;
+  border: 1px dashed #A38369;
 }
-body .card_container .card .card-header {
+.card_container .card .card-header {
   width: 100%;
   height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-body .card_container .card .card-header h3 {
+.card_container .card .card-header h3 {
   text-align: center;
 }
-body .card_container .card .card-footer {
+.card_container .card .card-footer {
   width: 100%;
   height: 150px;
   display: flex;
@@ -66,8 +68,29 @@ body .card_container .card .card-footer {
 }
 .modal .modal-content #babyName {
   text-align: center;
+  font-size: 25px;
 }
-.modal .modal-content tbody tr td {
+.modal .modal-content #babyDetails {
+  width: 100%;
+}
+.modal .modal-content #babyDetails tbody {
+  width: 100%;
+}
+.modal .modal-content #babyDetails tbody tr {
+  width: 100%;
+}
+.modal .modal-content #babyDetails tbody tr td {
   text-align: center;
-  border: solid 1px black;
+  border: dashed 1px #A38369;
+  padding: 0%;
+}
+
+body {
+  color: #A38369;
+}
+body h1 {
+  text-align: center;
+}
+body h2 {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */

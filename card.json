@@ -1,15 +1,15 @@
 [
 {
-    "baby" : "Aardwolf Cub",
+    "baby" : "Louveteau Fouisseur",
     "baby_pict" : "./img/siptah/Aardwolf_Cub.webp",
-    "adult": ["Greater Aardwolf Scavenger"],
+    "adult": ["Grand loup fouisseur"],
     "adult_pict": ["./img/siptah/Greater_Aardwolf_Scavenger.webp"],
     "food": ["./img/food/perfect_cut_of_meat.webp"],
     "Probability": ["20%"],
     "map": ["siptah"]
 },
 {
-    "baby" : "Antediluvian Elephant Calf",
+    "baby" : "Elephanteau antédiluvien",
     "baby_pict" : "./img/siptah/Antediluvian_Elephant_Calf.webp",
     "adult": ["Greater Antediluvian Elephant"],
     "adult_pict": ["./img/siptah/Greater_Antediluvian_Elephant.webp"],
@@ -18,7 +18,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Bear Cub",
+    "baby" : "Ourson",
     "baby_pict" : "./img/exiles lands/Bear_cub.webp",
     "adult": ["Greater Bear"],
     "adult_pict": ["./img/exiles lands/Greater_Bear.webp"],
@@ -27,7 +27,7 @@
     "map": ["exiles lands", "siptah"]
 },
 {
-    "baby" : "Boar Shoat",
+    "baby" : "Petit de sanglier",
     "baby_pict" : "./img/exiles lands/Boar_Shoat.webp",
     "adult": ["Greater Boar"],
     "adult_pict": ["./img/exiles lands/Greater_Boar.webp"],
@@ -36,7 +36,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Camel Calf",
+    "baby" : "Chamelon",
     "baby_pict" : "./img/exiles lands/Camel Calf.webp",
     "adult": ["Camel"],
     "adult_pict": ["./img/exiles lands/Camel.webp"],
@@ -45,7 +45,7 @@
     "map": ["exiles lands", "siptah"]
 },
 {
-    "baby" : "Crested Lacerta Hatchling",
+    "baby" : "Rejeton de lacerta",
     "baby_pict" : "./img/siptah/Crested_Lacerta_Hatchling.webp",
     "adult": ["Greater Crested Lacerta"],
     "adult_pict": ["./img/siptah/Greater_Crested_Lacerta.webp"],
@@ -54,7 +54,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Crocodile Hatchling",
+    "baby" : "Petit de crocodile",
     "baby_pict" : "./img/exiles lands/Crocodile_Hatchling.webp",
     "adult": ["Greater Crocodile"],
     "adult_pict": ["./img/exiles lands/Greater_Crocodile.webp"],
@@ -63,7 +63,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Elephant Calf",
+    "baby" : "Elephanteau",
     "baby_pict" : "./img/exiles lands/Elephant_Calf.webp",
     "adult": ["Greater Elephant","Mammoth"],
     "adult_pict": ["./img/exiles lands/Greater_Elephant.webp","./img/exiles lands/Mammoth.webp"],
@@ -72,7 +72,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Fawn",
+    "baby" : "Faon",
     "baby_pict" : "./img/exiles lands/Fawn.webp",
     "adult": ["Gazelle"],
     "adult_pict": ["./img/exiles lands/Gazelle.webp"],
@@ -81,7 +81,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Foal",
+    "baby" : "Poulain",
     "baby_pict" : "./img/exiles lands/Foal.webp",
     "adult": ["Horse"],
     "adult_pict": ["./img/exiles lands/Horse.webp"],
@@ -90,7 +90,7 @@
     "map": ["exiles lands", "siptah"]
 },
 {
-    "baby" : "Gorilla Infant",
+    "baby" : "Bébé gorille",
     "baby_pict" : "./img/siptah/Gorilla_Infant.webp",
     "adult": ["Silverback Gorilla"],
     "adult_pict": ["./img/siptah/Silverback_Gorilla.webp"],
@@ -99,7 +99,7 @@
     "map": ["exiles lands", "siptah"]
 },
 {
-    "baby" : "Island Lynx Cub",
+    "baby" : "Jeune lynx de l'île",
     "baby_pict" : "./img/siptah/Island_Lynx_Cub.webp",
     "adult": ["Greater Island Lynx"],
     "adult_pict": ["./img/siptah/Greater_Island_Lynx.webp"],
@@ -108,7 +108,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Jaguar Cub",
+    "baby" : "Petit de jaguar",
     "baby_pict" : "./img/exiles lands/Jaguar_Cub.webp",
     "adult": ["Greater Jaguar"],
     "adult_pict": ["./img/exiles lands/Greater_Jaguar.webp"],
@@ -117,7 +117,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Jungleclaw Cub",
+    "baby" : "Jeune félin de la jungle",
     "baby_pict" : "./img/siptah/Jungleclaw_Cub.webp",
     "adult": ["Greater Tawny Jungleclaw"],
     "adult_pict": ["./img/siptah/Greater_Tawny_Jungleclaw.webp"],
@@ -126,7 +126,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Komodo Hatchling",
+    "baby" : "Petit de komodo",
     "baby_pict" : "./img/exiles lands/Komodo_Hatchling.webp",
     "adult": ["Greater Komodo"],
     "adult_pict": ["./img/exiles lands/Greater_Komodo.webp"],
@@ -135,7 +135,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Lion Cub",
+    "baby" : "Lionceau",
     "baby_pict" : "./img/exiles lands/Lion_Cub.webp",
     "adult": ["Greater Lion"],
     "adult_pict": ["./img/exiles lands/Greater_Lion.webp"],
@@ -153,7 +153,7 @@
     "map": ["exiles lands", "siptah"]
 },
 {
-    "baby" : "Mountain Lion Cub",
+    "baby" : "Lionceau des montagnes",
     "baby_pict" : "./img/siptah/Mountain_Lion_Cub.webp",
     "adult": ["Greater Mountain Lion"],
     "adult_pict": ["./img/siptah/Greater_Mountain_Lion.webp"],
@@ -162,7 +162,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Ostrich Chick",
+    "baby" : "Petit d'autruche",
     "baby_pict" : "./img/exiles lands/Ostrich_Chick.webp",
     "adult": ["Ostrich A", "Ostrich B", "Ostrich C"],
     "adult_pict": ["./img/exiles lands/Ostrich_A.webp","./img/exiles lands/Ostrich_B.webp","./img/exiles lands/Ostrich_C.webp"],
@@ -171,7 +171,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Panther Cub",
+    "baby" : "Petit de panthère",
     "baby_pict" : "./img/exiles lands/Panther_Cub.webp",
     "adult": ["Greater Panther"],
     "adult_pict": ["./img/exiles lands/Greater_Panther.webp"],
@@ -180,7 +180,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Pebblenose",
+    "baby" : "Petit de rochegroin",
     "baby_pict" : "./img/exiles lands/Pebblenose.webp",
     "adult": ["Silver-vein Rocknose","Gold-vein Rocknose","Greater Rocknose"],
     "adult_pict": ["./img/exiles lands/Silver-vein_Rocknose.webp", "./img/exiles lands/Gold-vein_Rocknose.webp", "./img/exiles lands/Greater_Rocknose.webp"],
@@ -189,7 +189,7 @@
     "map": ["exiles lands","siptah"]
 },
 {
-    "baby" : "Rhino Calf",
+    "baby" : "Jeune rhinocéros",
     "baby_pict" : "./img/exiles lands/Rhino_Calf.webp",
     "adult": ["White Rhinoceros","Black Rhinoceros","Greater Rhinoceros"],
     "adult_pict": ["./img/exiles lands/White_Rhinoceros.webp","./img/exiles lands/Black_Rhinoceros.webp","./img/exiles lands/Greater_Rhinoceros.webp"],
@@ -198,7 +198,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Sabretooth Kitten",
+    "baby" : "Petit de tigre à dents de sabre",
     "baby_pict" : "./img/exiles lands/Sabretooth_Kitten.webp",
     "adult": ["Greater Sabretooth"],
     "adult_pict": ["./img/exiles lands/Greater_Sabretooth.webp"],
@@ -207,7 +207,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Salamander Hatchling",
+    "baby" : "Petit de salamandre",
     "baby_pict" : "./img/exiles lands/Salamander_Hatchling.webp",
     "adult": ["Greater Salamander"],
     "adult_pict": ["./img/exiles lands/Greater_Salamander.webp"],
@@ -234,7 +234,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Shaleback Hatchling",
+    "baby" : "Petit de schistosaure",
     "baby_pict" : "./img/exiles lands/Shaleback_Hatchling.webp",
     "adult": ["Shaleback A", "Shaleback B", "Shaleback C", "Shaleback D", "Greater Shaleback"],
     "adult_pict": ["./img/exiles lands/Shaleback_A.webp","./img/exiles lands/Shaleback_B.webp","./img/exiles lands/Shaleback_C.webp","./img/exiles lands/Shaleback_D.webp","./img/exiles lands/Greater_Shaleback.webp"],
@@ -243,7 +243,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Shoebill Chick",
+    "baby" : "Petit de bec-en-sabot",
     "baby_pict" : "./img/exiles lands/Shoebill_Chick.webp",
     "adult": ["Shoebill A", "Shoebill B", "Shoebill C"],
     "adult_pict": ["./img/exiles lands/Shoebill_A.webp","./img/exiles lands/Shoebill_B.webp","./img/exiles lands/Shoebill_C.webp"],
@@ -252,7 +252,7 @@
     "map": ["exiles lands","siptah"]
 },
 {
-    "baby" : "Siptah Pelican Chick",
+    "baby" : "Bébé pélécans de Siptah",
     "baby_pict" : "./img/siptah/Siptah_Pelican_Chick.webp",
     "adult": ["Greater Siptah Pelican"],
     "adult_pict": ["./img/siptah/Greater_Siptah_Pelican.webp"],
@@ -261,7 +261,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Spiderling",
+    "baby" : "Bébé araignée",
     "baby_pict" : "./img/exiles lands/Spiderling.webp",
     "adult": ["Spider A", "Spider B", "Red Widow", "Black Widow","Corrupted Spider"],
     "adult_pict": ["./img/exiles lands/Spider_A.webp","./img/exiles lands/Spider_B.webp","./img/exiles lands/Black_Widow.webp","./img/exiles lands/Red_Widow.webp","./img/exiles lands/Corrupted_Spider.webp"],
@@ -270,7 +270,7 @@
     "map": ["exiles lands","siptah"]
 },
 {
-    "baby" : "Spotted Hyena Whelp",
+    "baby" : "Petit de hyène tacheté",
     "baby_pict" : "./img/exiles lands/Spotted_Hyena_Whelp.webp",
     "adult": ["Greater Hyena"],
     "adult_pict": ["./img/exiles lands/Greater_Hyena.webp"],
@@ -279,7 +279,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Striped Hyena Whelp",
+    "baby" : "Petit de hyène rayé",
     "baby_pict" : "./img/exiles lands/Striped_Hyena_Whelp.webp",
     "adult": ["Greater Hyena"],
     "adult_pict": ["./img/exiles lands/Greater_Hyena.webp"],
@@ -288,7 +288,7 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Tiger Cub",
+    "baby" : "Petit de tigre",
     "baby_pict" : "./img/exiles lands/Tiger_Cub.webp",
     "adult": ["White Tiger"],
     "adult_pict": ["./img/exiles lands/White_Tiger.webp"],
@@ -306,7 +306,7 @@
     "map": ["siptah"]
 },
 {
-    "baby" : "Wolf Cub",
+    "baby" : "Louveteau",
     "baby_pict" : "./img/exiles lands/Wolf_Cub.webp",
     "adult": ["Greater Wolf"],
     "adult_pict": ["./img/exiles lands/Greater_Wolf.webp"],
@@ -315,7 +315,7 @@
     "map": ["exiles lands", "siptah"]
 },
 {
-    "baby" : "Frostwolf Cub",
+    "baby" : "Petit de givreloup",
     "baby_pict" : "./img/exiles lands/Frostwolf_Cub.webp",
     "adult": ["Greater Wolf"],
     "adult_pict": ["./img/exiles lands/Greater_Wolf.webp"],
@@ -324,12 +324,30 @@
     "map": ["exiles lands"]
 },
 {
-    "baby" : "Cobra Hatchling",
+    "baby" : "Cobra nouvellement éclos",
     "baby_pict" : "./img/exiles lands/Cobra_Hatchling.webp",
     "adult": ["Cobra Alpha"],
     "adult_pict": ["./img/exiles lands/Cobra_Alpha.webp"],
     "food": ["./img/food/perfect_cut_of_meat.webp"],
     "Probability": ["20%"],
-    "map": ["exiles lands"]
+    "map": ["exiles lands", "siptah"]
+},
+{
+    "baby" : "Jeune rhinocéros de siptah",
+    "baby_pict" : "./img/siptah/Siptah_Rhinocerous_Calf.webp",
+    "adult": ["Greater Siptah Rhino"],
+    "adult_pict": ["./img/siptah/Greater_Siptah_Rhinocerous.webp"],
+    "food": ["./img/food/bark.webp"],
+    "Probability": ["14%"],
+    "map": ["siptah"]
+},
+{
+    "baby" : "Jeune rhinocéros de siptah",
+    "baby_pict" : "./img/siptah/Siptah_Rhinocerous_Calf_B.webp",
+    "adult": ["Dominant Tuskbeast"],
+    "adult_pict": ["./img/siptah/Dominant_Tuskbeast.webp"],
+    "food": ["./img/food/bark.webp"],
+    "Probability": ["14%"],
+    "map": ["siptah"]
 }
 ]

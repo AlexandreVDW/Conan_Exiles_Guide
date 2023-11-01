@@ -27,12 +27,19 @@
         }
         #babyName{
             text-align: center;
+            font-size: 25px;
         }
-        tbody{
-            tr{
-                td{
-                    text-align: center;
-                    border : solid 1px black;
+        #babyDetails{
+            width: 100%;
+            tbody{
+                width: 100%;
+                tr{
+                    width: 100%;
+                    td{
+                        text-align: center;
+                        border : dashed 1px #A38369;
+                        padding: 0%;
+                    }
                 }
             }
         }
