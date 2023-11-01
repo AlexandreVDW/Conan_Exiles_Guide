@@ -11,7 +11,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1px solid black;
+  border: 1px dashed #A38369;
 }
 .card_container .card .card-header {
   width: 100%;
@@ -62,4 +62,5 @@
 }
 .modal #babyName {
   text-align: center;
+  color: #A38369;
 }/*# sourceMappingURL=style.css.map */
