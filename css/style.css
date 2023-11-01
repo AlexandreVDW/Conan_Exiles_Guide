@@ -56,7 +56,7 @@ body .card_container .card .card-footer {
   max-width: 600px;
   position: relative;
 }
-.modal .close {
+.modal .modal-content .close {
   position: absolute;
   right: 10px;
   top: 5px;
@@ -64,6 +64,10 @@ body .card_container .card .card-footer {
   font-size: 24px;
   cursor: pointer;
 }
-.modal #babyName {
+.modal .modal-content #babyName {
   text-align: center;
+}
+.modal .modal-content tbody tr td {
+  text-align: center;
+  border: solid 1px black;
 }/*# sourceMappingURL=style.css.map */

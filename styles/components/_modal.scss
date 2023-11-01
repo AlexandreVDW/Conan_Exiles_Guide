@@ -17,18 +17,26 @@
         width: 80%;
         max-width: 600px;
         position: relative;
-    }
-    .close {
-        position: absolute;
-        right: 10px;
-        top: 5px;
-        color: #000;
-        font-size: 24px;
-        cursor: pointer;
-    }
-    #babyName{
-        text-align: center;
-    }
+        .close {
+            position: absolute;
+            right: 10px;
+            top: 5px;
+            color: #000;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        #babyName{
+            text-align: center;
+        }
+        tbody{
+            tr{
+                td{
+                    text-align: center;
+                    border : solid 1px black;
+                }
+            }
+        }
+    } 
 }
 
 
