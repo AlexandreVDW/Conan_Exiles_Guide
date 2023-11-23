@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conan Pet helper</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <a href="index.html">Acceuil</a>
+        <a href="pet.html">Les animaux</a>
+        <a href="thrall.html">Les pnjs</a>
+    </header>
+    <section class="title">
+        <h1>Aide pour les bébés</h1>
+        <h2>Chosse your map:</h2>
+    </section>
+    <nav>  
+        <label for="all">All</label> 
+        <input type="radio" name="map" id="all" checked>
+        <label for="exiles lands">Exiles</label>
+        <input type="radio" name="map" id="exiles lands">
+        <label for="siptah">Siptah</label>
+        <input type="radio" name="map" id="siptah">
+    </nav>
+    <section class="card_container">
+
+    </section>
+    <!-- Modal -->
+    <div id="babyModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3 id="babyName"></h3>
+            <table id="babyDetails">
+                <!-- Details will be populated here -->
+            </table>
+        </div>
+    </div>
+</body>
+<script defer src="./pet.js"></script>
+</html>

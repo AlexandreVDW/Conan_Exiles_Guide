@@ -1,8 +1,13 @@
 @charset "UTF-8";
-nav {
-  text-align: center;
-  margin-top: 0%;
-  margin-bottom: 2%;
+body {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-family: "Roboto", sans-serif;
+  color: #A38369;
 }
 
 .card_container {
@@ -85,13 +90,66 @@ nav {
   padding: 0%;
 }
 
-body {
-  color: #A38369;
+.title h1 {
+  text-align: center;
+  font-size: 32px;
 }
-body h1 {
+.title h2 {
   text-align: center;
 }
-body h2 {
+
+nav {
   text-align: center;
+  margin-top: 0%;
+  margin-bottom: 2%;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #5C4033;
+  padding: 20px 0;
+  border: 1px dashed #A38369;
+}
+header a {
   color: #A38369;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+header a:hover {
+  color: #D9BFAF;
+}
+header a:active {
+  color: #D9BFAF;
+}
+
+footer {
+  text-align: right;
+  margin-top: 70vh;
+  color: white;
+}
+
+.index {
+  background-image: url("../img/conan-exiles.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 80vw;
+  border: none;
+}
+.index section {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+
+#artisans img {
+  width: 48px;
+  height: 48px;
+}
+
+#warriors img {
+  width: 48px;
+  height: 48px;
 }/*# sourceMappingURL=style.css.map */
