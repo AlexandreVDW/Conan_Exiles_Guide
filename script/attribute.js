@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Données JSON
-    fetch('../json/effect.json')
+    fetch('./json/effect.json')
         .then((response) => response.json())
         .then((data) => {
             // Triez les données par effet (effect)
