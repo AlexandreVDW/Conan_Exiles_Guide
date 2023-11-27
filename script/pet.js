@@ -1,5 +1,5 @@
 // Charger les données depuis le fichier JSON
-fetch('./json/pet.json')
+fetch('../json/pet.json')
   .then((response) => response.json())
   .then((data) => {
     const card = data;
