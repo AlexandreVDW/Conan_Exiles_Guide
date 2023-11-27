@@ -1,0 +1,134 @@
+[
+    {
+        "effect": "Estropié",
+        "description" : "Estropié réduit la vitesse de déplacement d'environ 50%."
+    },
+    {
+        "effect": "Saignement",
+        "description": "Le saignement est un effet de statut cumulatif qui inflige des dégâts au fil du temps."
+    },
+    {
+        "effect": "Sectionnement",
+        "description": "Sectionnement est un effet de statut cumulatif qui réduit l'armure."
+    },
+    {
+        "effect":"Poison",
+        "description": "Le poison est un effet de statut cumulatif qui inflige des dégâts au fil du temps."
+    },
+    {
+        "effect": "Prédateur",
+        "description": "Prédateur signifie que les dégâts de l'arme sont très élevés, beaucoup plus que des armes similaires, mais elle infligera des dégâts uniquement lors d'attaques légères."
+    },
+    {
+        "effect" : "Coup de bouclier",
+        "description": ""
+    },
+    {
+        "effect": "Engelures",
+        "description":"Ajoute le debuff Gelure au toucher, Gelure diminue considérablement la température du joueur lorsqu'elle est touchée."
+    },
+    {
+        "effect":"Corrompu",
+        "description":"donne la corruption, à l'utilisateur ou à la personne touchée"
+    },
+    {
+        "effect":"Variable",
+        "description":"Variable est un trait d'arme qui fait que l'arme a aléatoirement différentes propriétés (durabilité, dégâts, poids et pénétration d'armure) par rapport à ses statistiques de base lors de sa fabrication."
+    },
+    {
+        "effect":"Bourreau",
+        "description":"ce qui provoque 10000 dégâts supplémentaires à chaque coup si l'ennemi a moins de 10% de sa santé maximale restante (dans des conditions normales, c'est un coup mortel)."
+    },
+    {
+        "effect":"Durable",
+        "description":"Plus de durabilité"
+    },
+    {
+        "effect":"Perforation",
+        "description":"Perforation inflige simplement 1 dégât statique par pile chaque seconde pendant 20 secondes et peut s'accumuler jusqu'à 20 fois, pour un total de 20 dégâts par seconde."
+    },
+    {
+        "effect":"Escalade",
+        "description":"Fait en sorte que l'arme ait un multiplicateur de dégâts spécial appliqué à chaque coup. Ce multiplicateur commence à 0,1 et augmente de +0,1 à chaque coup, jusqu'à un maximum de 2,0 après 19 coups. "
+    },
+    {
+        "effect":"Assomment",
+        "description":"Assomme la cible lorsque vous la portez ou l'utilisez"
+    },
+    {
+        "effect":"Pillant",
+        "description":"supprime les buffs des autres personnes si vous les touchez et vous serez purifié des poisons en le sortant"
+    },
+    {
+        "effect":"Envenimé",
+        "description":"Les armes empoisonnées empoisonnent les cibles au toucher. Les armes empoisonnées ont le même effet que les armes empoisonnées."
+    },
+    {
+        "effect":"Fureur de Berserker",
+        "description":"augmente les dégâts en pourcentage de la santé actuelle du joueur par rapport à son maximum, divisé par six. Cet effet ne fait rien si l'utilisateur n'est pas un joueur."
+    },
+    {
+        "effect":"Acide",
+        "description":"Acide est un trait d'arme qui fait que l'arme inflige des dégâts supplémentaires à la durabilité de l'armure et éventuellement un petit effet de dégâts au fil du temps."
+    },
+    {
+        "effect":"Sévère",
+        "description":"Sévère est une variante plus forte de estropié qui ralentit la vitesse de déplacement de 90% pendant 2 secondes."
+    },
+    {
+        "effect":"Résistant au froid",
+        "description":"Donne une résistance au froid lorsque vous le portez ou l'utilisez"
+    },
+    {
+        "effect":"Enduit Anti-Spectre",
+        "description":"Inflige 5 dégâts par seconde par pile, jusqu'à un maximum de 50 dégâts par seconde avec 10 piles. Le poison dure 10 coups avant de devoir être réappliqué."
+    },
+    {
+        "effect":"Chauffé",
+        "description":"Les victimes touchées par cette arme verront leur température augmenter"
+    },
+    {
+        "effect":"Saignement en réaction",
+        "description":"Si vous bloquez, l'ennemi saigne"
+    },
+    {
+        "effect":"Résistance à la chaleur",
+        "description":"Résistance à la chaleur lorsque vous le portez ou l'utilisez"
+    },
+    {
+        "effect":"Contaminé",
+        "description":"ce qui réduit la santé de l'ennemi de 0,5% de son maximum par pile toutes les 10 secondes."
+    },
+    {
+        "effect":"Affinité pour la corruption",
+        "description":"Les armes avec ce trait infligent +0,625% de dégâts supplémentaires par 1% de corruption de l'utilisateur"
+    },
+    {
+        "effect":"Tourbillon",
+        "description":"Si j'ai bien compris, permet de faire la tornade avec l'arme comme le barbare de Diablo 3"
+    },
+    {
+        "effect":"Allonge",
+        "description":"Augmente la portée d'attaque, pas sûr que ce soit ça"
+    },
+    {
+        "effect":"Coupure de papier",
+        "description":"c'est un saignement qui ne s'accumule pas et inflige 2 dégâts par tick"
+    },
+    {
+        "effect":"Absorption de puissance",
+        "description":"L'effet de tir de puissance signifie simplement que cet arc est basé sur la force plutôt que sur l'agilité"
+    },
+    {
+        "effect":"Os Creux",
+        "description":"Le trait Os creux est actuellement désactivé et ne fait rien. À la place, on peut le considérer comme signifiant que cette arme a une pénétration d'armure plus élevée que la normale."
+    },
+    {
+        "effect":"De jet",
+        "description":"Permet de lancer l'arme"
+    },
+    {
+        "effect":"Respiration aquatique",
+        "description":"Permet de respirer sous l'eau quand équipé"
+    }
+]
