@@ -9,6 +9,7 @@ this project was made for the purpose of learning and practicing the use of HTML
 - A table of contents for easy navigation
 - A page with a list of all animals that can be raised and what is the best food for get the better beast
 - A page guide for the thralls and how to use them.
+- A page guide with the list of the dungeon of the map exiles lands and some tips for each one.
 
 ## Requirements
 
