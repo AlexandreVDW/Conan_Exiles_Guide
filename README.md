@@ -17,4 +17,7 @@ this project was made for the purpose of learning and practicing the use of HTML
 - SCSS
 - JavaScript
 
+## Deployment
+
+The project is deployed on GitHub Pages and can be accessed [here](https://alexandrevdw.github.io/Conan_Exiles_Guide/).
 
