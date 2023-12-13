@@ -1,0 +1,157 @@
+[
+    {
+        "Name": "Les égouts",
+        "Where": "D4, au bout du camp de darfari",
+        "Difficulty": "Facile",
+        "Level": "10",
+        "Recipes": [
+            "Armes abyssales",
+            "Armures reptiliennes",
+            "Torche de vase luisante"
+        ],
+        "Tips": "Prendre un arc et des flèches"
+    },
+    {
+        "Name":"Le Palais de La reine sorcière",
+        "Where":"O5/O6, dans le temple de la jungle",
+        "Difficulty":"Facile",
+        "Level":"60",
+        "Recipes":[
+            "Pique lémurienne",
+            "Epée lémurienne",
+            "Armure royal lémurienne",
+            "Armure de guerrier lémurien"
+        ],
+        "Tips":"Donjon beaucoup trop facile que s'en est une blague"
+    },
+    {
+        "Name":"L'antre de Kurak",
+        "Where":"G7, accesible via le téléporteur de sorcellerie au temple de Mek Kamoses",
+        "Difficulty":"Très difficile",
+        "Level":"60",
+        "Recipes":[
+            "Tenue de Kurak"
+        ],
+        "Tips":"Donjon trés difficile lorsque vous avez tué kurak vous devez fuir le plus vite possible sous peine de mort instantanée"
+    },
+    {
+        "Name":"L'antre de Jhebbal Sag",
+        "Where":"D8, parler a la hyène garou",
+        "Difficulty":"Intermédiaire",
+        "Level": "40",
+        "Recipes":[
+            "Religion de Jhebbal Sag"
+        ],
+        "Tips": "Donjon assez facile si fait a plusieurs ou bien équipé, on peut y trouver pas mal de bébés animaux et farm beaucoup de peaux"
+    },
+    {
+        "Name":"Le donjon noir",
+        "Where":"F11, dans la neige",
+        "Difficulty":"Intermédiaire",
+        "Level":"60",
+        "Recipes":[
+            "Armes du fratricide",
+            "Fierté de la légion du silence",
+            "Armure légère de la légion du silence",
+            "Armure intermédiaire de la légion du silence"
+        ],
+        "Tips":"le donjon est labyrinthique, il faut trouver une clé pour accéder a la salle du boss, il y a beaucoup de mobs et de pièges"
+    },
+    {
+        "Name":"l'Arène",
+        "Where":"H6, la grosse porte au bord de la riviére",
+        "Difficulty":"Difficile",
+        "Level": "60",
+        "Recipes":[
+            "Armes en os de dragon",
+            "Armure légère en os de dragon",
+            "Armure intermédiaire en os de dragon",
+            "Armure lourde en os de dragon"
+        ],
+        "Tips": "Deux boss a affronté le premier est un serpent géant dans de la corruption, le deuxiéme est un dragon mort vivant"
+    },
+    {
+        "Name": "La mine d'argent abandonnée",
+        "Where": "B6, dans les montagnes prés de Sepermeru",
+        "Difficulty": "Difficile",
+        "Level": "60",
+        "Recipes":[
+            "Poison de la reine scopion"
+        ],
+        "Tips": "Donjon relativement simple dans son ensemble, juste les 3 boss qui tapent un peu fort"
+    },
+    {
+        "Name":"Temple du givre",
+        "Where":"D14, dans la neige",
+        "Difficulty":"Très difficile",
+        "Level":"50",
+        "Recipes":[
+            "Armes de glaces noirs",
+            "Outils de glaces noirs"
+        ],
+        "Tips": "Donjon trés difficile dû a la température trés basses, nourriture épicées et armure de résistance au froid obligatoire"
+    },
+    {
+        "Name": "Le Puits de Skelos",
+        "Where":"F14, au volcan sauté dans le portail",
+        "Difficulty": "Très difficile",
+        "Level":"60",
+        "Recipes":[
+            "Outils en obsidienne",
+            "Armes en obsidienne"
+        ],
+        "Tips":"On y trouve la forge pour crafter les lingots d'obsidienne, le donjon est trés difficile, il faut faire attention aux mobs mais le boss est une blague"
+    },
+    {
+        "Name": "Le Cellier",
+        "Where":"B7, la porte derriére la taverne où on trouve conan",
+        "Difficulty":"Très difficile",
+        "Level":"60",
+        "Recipes":[
+            "Armes Khari",
+            "Armures légéres Khari",
+            "Armures intermédiaires Khari",
+            "Armures lourdes Khari"
+        ],
+        "Tips": "Donjon le plus difficile selon moi, très long, beaucoup de mobs, beaucoup de pièges, beaucoup de boss, beaucoup de loot, beaucoup de morts et il doit etre farmé pour avoir toutes les recettes"
+    },
+    {
+        "Name":"L'étreinte de Dagon",
+        "Where":"O5, accesible via un petit bateau",
+        "Difficulty":"Très difficile",
+        "Level":"60",
+        "Recipes":[
+            "Armes ancienne lémurienne",
+            "Soufle de Dagon",
+            "Dague de Dagon",
+            "Extrait d'Aloe Ancien",
+            "Piège a poisson amélioré"
+        ],
+        "Tips": "Donjon sous marin, il faut le masque de respiration aquatique, je ne l'ai jamais fait mais trés difficile d'aprés les retours que j'ai eu"
+    },
+    {
+        "Name":"Le Passage",
+        "Where":"K9, dans la jungle",
+        "Difficulty":"Intermédiaire",
+        "Level":"40",
+        "Recipes":[
+            "Aucune"
+        ],
+        "Tips": "Pour moi ce n'est pas un donjon, il y a juste un boss a tuer, il est relativement facile, il faut juste faire attention aux mobs qui sont nombreux"
+    },
+    {
+        "Name":"Le Donjon de Klael's",
+        "Where":"B8, pas loin du lac de souffre c'est une grande structure imposante ",
+        "Difficulty":"Très difficile",
+        "Level":"60",
+        "Recipes":[
+            "Armes du maitre de guerre",
+            "Grand Maitre Faiseur d'Armes",
+            "Armures du Tueur de Dieux",
+            "Grand Maitre Faiseur d'Armures",
+            "Armures du champion de l'aréne"
+        ],
+        "Tips": "Donjon trés long, beaucoup de boss, dont la championne de l'arène qui est capable de vous couper en deux, mais on y débloque de trés bonne recette et on y trouve plein d'armes légendaires, il doit etre aussi farmer plusieurs fois pour pouvoir craft l'armure de tueur de dieux"
+    }
+]
+
