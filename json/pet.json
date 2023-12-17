@@ -74,10 +74,10 @@
 {
     "baby" : "Faon",
     "baby_pict" : "./img/exiles lands/Fawn.webp",
-    "adult": ["Gazelle"],
-    "adult_pict": ["./img/exiles lands/Gazelle.webp"],
-    "food": ["./img/food/plant_fiber.webp"],
-    "Probability": ["100%"],
+    "adult": ["Gazelle", "Cerf Alpha"],
+    "adult_pict": ["./img/exiles lands/Gazelle.webp", "./img/exiles lands/Icon_deer_alpha.webp"],
+    "food": ["./img/food/plant_fiber.webp", "./img/food/plant_fiber.webp"],
+    "Probability": ["30%", "10%"],
     "map": ["exiles lands"]
 },
 {
