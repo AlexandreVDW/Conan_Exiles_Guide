@@ -181,23 +181,29 @@ header a:active {
 }
 
 footer {
+  flex-shrink: 0;
   text-align: right;
-  margin-top: 70vh;
   color: white;
+  padding-bottom: 1%;
 }
 
 .index {
   background-image: url("../img/conan-exiles.webp");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  background-repeat: no-repeat;
   width: 80vw;
   border: none;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
 }
 .index section {
   color: white;
-  font-size: 2rem;
+  font-size: calc(1rem + 1vw);
   text-align: center;
+  flex: 1 0 auto;
 }
 
 #artisans img {
